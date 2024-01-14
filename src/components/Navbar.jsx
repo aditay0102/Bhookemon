@@ -23,7 +23,7 @@ function Navbar() {
 
 <nav className='Navbar'>
            <dv id='d1'>
-                <img className='Logo' src="https://i.pinimg.com/564x/20/71/36/207136ca1af788ec75714672cc274096.jpg" alt="" /> <b id='Brand'>Bhokemon </b>          </dv>
+                <img className='Logo' src="https://i.pinimg.com/564x/20/71/36/207136ca1af788ec75714672cc274096.jpg" alt="" /> <b id='Brand'>KhanaKhzana </b>          </dv>
            <dv id='d2'>
             <Link className="nav-item nav-link active" to='/'>Home</Link>
       
