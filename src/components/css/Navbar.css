@@ -1,0 +1,72 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    color:white;
+    background-color: rgb(249,245,233);
+
+}
+
+#Brand{
+    font-size: 1.4rem;
+}
+
+.Logo{
+    width: 7vh;
+    height: 7vh;
+    border-radius: 50%;
+}
+
+.nav-item{
+    font-size: 1.5rem;
+}
+
+#sameBtn{
+    background-color: rgb(239,114,33);
+}
+.mycart_container{
+    display: flex;
+}
+
+.mycart{
+    display: flex;
+    width: 5rem;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.cartIcon{
+    background-color: rgb(255,156,26);
+    border-radius: 5%;
+}
+
+.Navbar{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    height: 7vh;
+    width: 100vw;
+    justify-content: space-between ;
+}
+
+#d1{
+    width: 30vw;
+    margin-left: 2rem;
+}
+#d3{
+    width: 30vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#d2{
+    
+    width: 70vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: large;
+}

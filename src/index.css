@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo&display=swap');
+
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(249,245,233);
+}
+
+
+*{
+  font-family: 'Aleo', serif;
+}

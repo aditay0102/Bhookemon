@@ -1,0 +1,26 @@
+.home_jail{
+    margin: 5px;
+    padding: 0;
+    
+}
+
+.search{
+    width: 50%;
+    height: 3rem;
+    border-radius: 50px ;
+}
+
+.Home_container{
+    background-color: rgb(249,245,233);
+    width: 100vw;
+}
+
+#FoodTitle{
+    font-size:2rem ;
+}
+
+    
+
+
+
+

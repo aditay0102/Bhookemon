@@ -1,0 +1,30 @@
+#card{
+    background-color: rgb(241, 227, 185);
+}
+
+#haldCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 15px ;
+   
+}
+
+#halfindise{
+    margin-left: 3px;
+}
+
+.finalprice{
+    padding-left: 60px;
+}
+
+#bc{
+    border: none;
+    background-color: rgb(200,105,33);
+
+}
+
+.AddCart{
+    margin-bottom: 9px;
+}
+
